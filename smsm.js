@@ -2461,7 +2461,7 @@ smsm100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-smsm.login("");
+smsm.login("ODY4ODc2MjIwMjM2OTYzODcy.YP2Cfg.4RYZWVJFWOhPOTf901Nlwy_qI7o");
 smsm2.login("");
 smsm3.login("");
 smsm4.login("");
