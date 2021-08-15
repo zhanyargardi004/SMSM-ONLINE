@@ -1,10 +1,10 @@
 {
   "name": "smsm",
   "version": "2.1.0",
-  "description": "jano",
-  "main": "jano.js",
+  "description": "smsm",
+  "main": "smsm.js",
   "scripts": {
-    "start": "node jano.js"
+    "start": "node smsm.js"
   },
   "dependencies": {
     "discord.js": "11.4.2",
