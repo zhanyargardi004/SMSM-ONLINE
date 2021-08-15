@@ -1,1 +1,1 @@
-hjkyju
+worker: node jano.js
