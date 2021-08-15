@@ -121,136 +121,136 @@ jano3.on("ready", () => {
   });
 ///////////////////
 jano4.on("ready", () => {
-    var join = jano4.channels.get(""); /// id voice
+    var join = smsm4.channels.get(""); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano5.on("ready", () => {
-    var join = jano5.channels.get(""); /// id voice
+    var join = smsm5.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano6.on("ready", () => {
-    var join = jano6.channels.get(""); /// id voice
+    var join = smsm6.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano7.on("ready", () => {
-    var join = jano7.channels.get(""); /// id voice
+    var join = smsm7.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano8.on("ready", () => {
-    var join = jano8.channels.get(""); /// id voice
+    var join = smsm8.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano9.on("ready", () => {
-    var join = jano9.channels.get(""); /// id voice
+    var join = smsm9.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano10.on("ready", () => {
-    var join = jano10.channels.get(""); /// id voice
+    var join = smsm10.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano11.on("ready", () => {
-    var join = jano11.channels.get(""); /// id voice
+    var join = smsm11.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano12.on("ready", () => {
-    var join = jano12.channels.get(""); /// id voice
+    var join = smsm12.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano13.on("ready", () => {
-    var join = jano13.channels.get(""); /// id voice
+    var join = smsm13.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano14.on("ready", () => {
-    var join = jano14.channels.get(""); /// id voice
+    var join = smsm14.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano15.on("ready", () => {
-    var join = jano15.channels.get(""); /// id voice
+    var join = smsm15.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano16.on("ready", () => {
-    var join = jano16.channels.get(""); /// id voice
+    var join = smsm16.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano17.on("ready", () => {
-    var join = jano17.channels.get(""); /// id voice
+    var join = smsm17.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano18.on("ready", () => {
-    var join = jano18.channels.get(""); /// id voice
+    var join = smsm18.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano19.on("ready", () => {
-    var join = jano19.channels.get(""); /// id voice
+    var join = smsm19.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano20.on("ready", () => {
-    var join = jano20.channels.get(""); /// id voice
+    var join = smsm20.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano21.on("ready", () => {
-    var join = jano21.channels.get(""); /// id voice
+    var join = smsm21.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano22.on("ready", () => {
-    var join = jano22.channels.get(""); /// id voice
+    var join = smsm22.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano23.on("ready", () => {
-    var join = jano23.channels.get(""); /// id voice
+    var join = smsm23.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano24.on("ready", () => {
-    var join = jano24.channels.get(""); /// id voice
+    var join = smsm24.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano25.on("ready", () => {
-    var join = jano25.channels.get(""); /// id voice
+    var join = smsm25.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano26.on("ready", () => {
-    var join = jano26.channels.get(""); /// id voice
+    var join = smsm26.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano27.on("ready", () => {
-    var join = jano27.channels.get(""); /// id voice
+    var join = smsm27.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano28.on("ready", () => {
-    var join = jano28.channels.get(""); /// id voice
+    var join = smsm28.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano29.on("ready", () => {
-    var join = jano29.channels.get(""); /// id voice
+    var join = smsm29.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano30.on("ready", () => {
-    var join = jano30.channels.get(""); /// id voice
+    var join = smsm30.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano31.on("ready", () => {
-    var join = jano31.channels.get(""); /// id voice
+    var join = smsm31.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano32.on("ready", () => {
-    var join = jano32.channels.get(""); /// id voice
+    var join = smsm32.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano33.on("ready", () => {
-    var join = jano33.channels.get(""); /// id voice
+    var join = smsm33.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano34.on("ready", () => {
-    var join = jano34.channels.get(""); /// id voice
+    var join = smsm34.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano35.on("ready", () => {
-    var join = jano35.channels.get(""); /// id voice
+    var join = smsm35.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano36.on("ready", () => {
-    var join = jano36.channels.get(""); /// id voice
+    var join = smsm36.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano37.on("ready", () => {
@@ -258,193 +258,193 @@ jano37.on("ready", () => {
     if (join) join.join();
   });///////////////////
 jano38.on("ready", () => {
-    var join = jano38.channels.get(""); /// id voice
+    var join = smsm38.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano39.on("ready", () => {
-    var join = jano39.channels.get(""); /// id voice
+    var join = smsm39.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano40.on("ready", () => {
-    var join = jano40.channels.get(""); /// id voice
+    var join = smsm40.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano41.on("ready", () => {
-    var join = jano41.channels.get(""); /// id voice
+    var join = smsm41.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano42.on("ready", () => {
-    var join = jano42.channels.get(""); /// id voice
+    var join = smsm42.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano43.on("ready", () => {
-    var join = jano43.channels.get(""); /// id voice
+    var join = smsm43.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano44.on("ready", () => {
-    var join = jano44.channels.get(""); /// id voice
+    var join = smsm44.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano45.on("ready", () => {
-    var join = jano45.channels.get(""); /// id voice
+    var join = smsm45.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano46.on("ready", () => {
-    var join = jano46.channels.get(""); /// id voice
+    var join = smsm46.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano47.on("ready", () => {
-    var join = jano47.channels.get(""); /// id voice
+    var join = smsm47.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano48.on("ready", () => {
-    var join = jano48.channels.get(""); /// id voice
+    var join = smsm48.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano49.on("ready", () => {
-    var join = jano49.channels.get(""); /// id voice
+    var join = smsm49.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano50.on("ready", () => {
-    var join = jano50.channels.get(""); /// id voice
+    var join = smsm50.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano51.on("ready", () => {
-    var join = jano51.channels.get(""); /// id voice
+    var join = smsm51.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano52.on("ready", () => {
-    var join = jano52.channels.get(""); /// id voice
+    var join = smsm52.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano53.on("ready", () => {
-    var join = jano53.channels.get(""); /// id voice
+    var join = smsm53.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano54.on("ready", () => {
-    var join = jano54.channels.get(""); /// id voice
+    var join = smsm54.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano55.on("ready", () => {
-    var join = jano55.channels.get(""); /// id voice
+    var join = smsm55.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano56.on("ready", () => {
-    var join = jano56.channels.get(""); /// id voice
+    var join = smsm56.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano57.on("ready", () => {
-    var join = jano57.channels.get(""); /// id voice
+    var join = smsm57.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano58.on("ready", () => {
-    var join = jano58.channels.get(""); /// id voice
+    var join = smsm58.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano59.on("ready", () => {
-    var join = jano59.channels.get(""); /// id voice
+    var join = smsm59.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano60.on("ready", () => {
-    var join = jano60.channels.get(""); /// id voice
+    var join = smsm60.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano61.on("ready", () => {
-    var join = jano61.channels.get(""); /// id voice
+    var join = smsm61.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano62.on("ready", () => {
-    var join = jano62.channels.get(""); /// id voice
+    var join = smsm62.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano63.on("ready", () => {
-    var join = jano63.channels.get(""); /// id voice
+    var join = smsm63.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano64.on("ready", () => {
-    var join = jano64.channels.get(""); /// id voice
+    var join = smsm64.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano65.on("ready", () => {
-    var join = jano65.channels.get(""); /// id voice
+    var join = smsm65.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano66.on("ready", () => {
-    var join = jano66.channels.get(""); /// id voice
+    var join = smsm66.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano67.on("ready", () => {
-    var join = jano67.channels.get(""); /// id voice
+    var join = smsm67.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano68.on("ready", () => {
-    var join = jano68.channels.get(""); /// id voice
+    var join = smsm68.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano69.on("ready", () => {
-    var join = jano69.channels.get(""); /// id voice
+    var join = smsm69.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano70.on("ready", () => {
-    var join = jano70.channels.get(""); /// id voice
+    var join = smsm70.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano71.on("ready", () => {
-    var join = jano71.channels.get(""); /// id voice
+    var join = smsm71.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
+    var join = smsm72.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano72.on("ready", () => {
-    var join = jano72.channels.get(""); /// id voice
+    var join = smsm72.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano73.on("ready", () => {
-    var join = jano73.channels.get(""); /// id voice
+    var join = smsm73.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano74.on("ready", () => {
-    var join = jano74.channels.get(""); /// id voice
+    var join = smsm74.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano75.on("ready", () => {
-    var join = jano75.channels.get(""); /// id voice
+    var join = smsm75.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano76.on("ready", () => {
-    var join = jano76.channels.get(""); /// id voice
+    var join = smsm76.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano77.on("ready", () => {
-    var join = jano77.channels.get(""); /// id voice
+    var join = smsm77.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano78.on("ready", () => {
-    var join = jano78.channels.get(""); /// id voice
+    var join = smsm78.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano79.on("ready", () => {
-    var join = jano79.channels.get(""); /// id voice
+    var join = smsm79.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano80.on("ready", () => {
-    var join = jano80.channels.get(""); /// id voice
+    var join = smsm80.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano81.on("ready", () => {
-    var join = jano81.channels.get(""); /// id voice
+    var join = smsm81.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 jano82.on("ready", () => {
-    var join = jano82.channels.get(""); /// id voice
+    var join = smsm82.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 
 //////////////////
 jano83.on("ready", () => {
-    var join = jano83.channels.get(""); /// id voice
+    var join = smsm83.channels.get(""); /// id voice
     if (join) join.join();
   });
 
@@ -452,93 +452,93 @@ jano83.on("ready", () => {
 
 //////////////////
 jano84.on("ready", () => {
-    var join = jano84.channels.get(""); /// id voice
+    var join = smsm84.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano85.on("ready", () => {
-    var join = jano85.channels.get(""); /// id voice
+    var join = smsm85.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano86.on("ready", () => {
-    var join = jano86.channels.get(""); /// id voice
+    var join = smsm86.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano87.on("ready", () => {
-    var join = jano87.channels.get(""); /// id voice
+    var join = smsm87.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano88.on("ready", () => {
-    var join = jano88.channels.get(""); /// id voice
+    var join = smsm88.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano89.on("ready", () => {
-    var join = jano89.channels.get(""); /// id voice
+    var join = smsm89.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano90.on("ready", () => {
-    var join = jano90.channels.get(""); /// id voice
+    var join = smsm90.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano91.on("ready", () => {
-    var join = jano91.channels.get(""); /// id voice
+    var join = smsm91.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano92.on("ready", () => {
-    var join = jano92.channels.get(""); /// id voice
+    var join = smsm92.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano93.on("ready", () => {
-    var join = jano93.channels.get(""); /// id voice
+    var join = smsm93.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano94.on("ready", () => {
-    var join = jano94.channels.get(""); /// id voice
+    var join = smsm94.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano95.on("ready", () => {
-    var join = jano83.channels.get(""); /// id voice
+    var join = smsm83.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano96.on("ready", () => {
-    var join = jano96.channels.get(""); /// id voice
+    var join = smsm96.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano97.on("ready", () => {
-    var join = jano97.channels.get(""); /// id voice
+    var join = smsm97.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano98.on("ready", () => {
-    var join = jano98.channels.get(""); /// id voice
+    var join = smsm98.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
 jano99.on("ready", () => {
-    var join = jano99.channels.get(""); /// id voice
+    var join = smsm99.channels.get(""); /// id voice
     if (join) join.join();
   });
 
 /////////////////////
 jano100.on("ready", () => {
-    var join = jano100.channels.get(""); /// id voice
+    var join = smsm100.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////// playing or dnd  streaming ////////
 
-jano.on("ready", () => {
+smsm.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -549,7 +549,7 @@ jano.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
+    smsm.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -557,7 +557,7 @@ jano.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano2.on("ready", () => {
+smsm2.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -568,7 +568,7 @@ jano2.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano2.user.setActivity(STREAMING, {      
+    smsm2.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -576,7 +576,7 @@ jano2.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano3.on("ready", () => {
+smsm3.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -587,7 +587,7 @@ jano3.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano3.user.setActivity(STREAMING, {      
+    smsm3.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -595,7 +595,7 @@ jano3.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano4.on("ready", () => {
+smsm4.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -606,7 +606,7 @@ jano4.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano4.user.setActivity(STREAMING, {      
+    smsm4.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -614,7 +614,7 @@ jano4.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano5.on("ready", () => {
+smsm5.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -625,7 +625,7 @@ jano5.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano5.user.setActivity(STREAMING, {      
+    smsm5.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -633,7 +633,7 @@ jano5.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano6.on("ready", () => {
+smsm6.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -644,7 +644,7 @@ jano6.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano6.user.setActivity(STREAMING, {      
+    smsm6.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -652,7 +652,7 @@ jano6.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano7.on("ready", () => {
+smsm7.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -663,7 +663,7 @@ jano7.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano7.user.setActivity(STREAMING, {      
+    smsm7.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -671,7 +671,7 @@ jano7.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano8.on("ready", () => {
+smsm8.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -682,7 +682,7 @@ jano8.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano8.user.setActivity(STREAMING, {      
+    smsm8.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -690,7 +690,7 @@ jano8.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano9.on("ready", () => {
+smsm9.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -701,7 +701,7 @@ jano9.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano9.user.setActivity(STREAMING, {      
+    smsm9.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -709,7 +709,7 @@ jano9.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano10.on("ready", () => {
+smsm10.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -720,7 +720,7 @@ jano10.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano10.user.setActivity(STREAMING, {      
+    smsm10.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -728,7 +728,7 @@ jano10.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano11.on("ready", () => {
+smsm11.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -739,7 +739,7 @@ jano11.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano11.user.setActivity(STREAMING, {      
+    smsm11.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -747,7 +747,7 @@ jano11.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano12.on("ready", () => {
+smsmsmsm12.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -758,7 +758,7 @@ jano12.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano12.user.setActivity(STREAMING, {      
+    smsm12.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -766,7 +766,7 @@ jano12.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano13.on("ready", () => {
+smsm13.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -777,7 +777,7 @@ jano13.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano13.user.setActivity(STREAMING, {      
+    smsm13.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -785,7 +785,7 @@ jano13.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano14.on("ready", () => {
+smsm14.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -796,7 +796,7 @@ jano14.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano14.user.setActivity(STREAMING, {      
+    smsm14.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -804,7 +804,7 @@ jano14.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano15.on("ready", () => {
+smsm15.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -815,7 +815,7 @@ jano15.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano15.user.setActivity(STREAMING, {      
+    smsm15.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -823,7 +823,7 @@ jano15.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano16.on("ready", () => {
+smsm16.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -834,7 +834,7 @@ jano16.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano16.user.setActivity(STREAMING, {      
+    smsm16.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -842,7 +842,7 @@ jano16.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano17.on("ready", () => {
+smsm17.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -853,7 +853,7 @@ jano17.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano17.user.setActivity(STREAMING, {      
+    smsm17.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -861,7 +861,7 @@ jano17.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano18.on("ready", () => {
+smsm18.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -872,7 +872,7 @@ jano18.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano18.user.setActivity(STREAMING, {      
+    smsm18.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -880,7 +880,7 @@ jano18.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano19.on("ready", () => {
+smsm19.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -891,7 +891,7 @@ jano19.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano19.user.setActivity(STREAMING, {      
+    smsm19.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -899,7 +899,7 @@ jano19.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano20.on("ready", () => {
+smsm20.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -910,7 +910,7 @@ jano20.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano20.user.setActivity(STREAMING, {      
+    smsm20.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -918,7 +918,7 @@ jano20.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano21.on("ready", () => {
+smsm21.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -929,7 +929,7 @@ jano21.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano21.user.setActivity(STREAMING, {      
+    smsm21.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -937,7 +937,7 @@ jano21.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano22.on("ready", () => {
+smsm22.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -948,7 +948,7 @@ jano22.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano22.user.setActivity(STREAMING, {      
+    smsm22.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -956,7 +956,7 @@ jano22.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano23.on("ready", () => {
+smsm23.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -967,7 +967,7 @@ jano23.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano23.user.setActivity(STREAMING, {      
+    smsm23.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -975,7 +975,7 @@ jano23.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano24.on("ready", () => {
+smsm24.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -986,7 +986,7 @@ jano24.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano24.user.setActivity(STREAMING, {      
+    smsm24.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -994,7 +994,7 @@ jano24.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano25.on("ready", () => {
+smsm25.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1005,7 +1005,7 @@ jano25.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano25.user.setActivity(STREAMING, {      
+    smsm25.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1013,7 +1013,7 @@ jano25.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano26.on("ready", () => {
+smsm26.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1024,7 +1024,7 @@ jano26.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano26.user.setActivity(STREAMING, {      
+    smsm26.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1032,7 +1032,7 @@ jano26.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano27.on("ready", () => {
+smsm27.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1043,7 +1043,7 @@ jano27.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano27.user.setActivity(STREAMING, {      
+    smsm27.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1051,7 +1051,7 @@ jano27.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano28.on("ready", () => {
+smsm28.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1062,7 +1062,7 @@ jano28.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano28.user.setActivity(STREAMING, {      
+    smsm28.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1070,7 +1070,7 @@ jano28.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano29.on("ready", () => {
+smsm29.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1081,7 +1081,7 @@ jano29.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano29.user.setActivity(STREAMING, {      
+    smsm29.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1089,7 +1089,7 @@ jano29.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano30.on("ready", () => {
+smsm30.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1100,7 +1100,7 @@ jano30.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano30.user.setActivity(STREAMING, {      
+    smsm30.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1108,7 +1108,7 @@ jano30.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano31.on("ready", () => {
+smsm31.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1119,7 +1119,7 @@ jano31.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano31.user.setActivity(STREAMING, {      
+    smsm31.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1127,7 +1127,7 @@ jano31.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano32.on("ready", () => {
+smsm32.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1138,7 +1138,7 @@ jano32.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano32.user.setActivity(STREAMING, {      
+    smsm32.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1146,7 +1146,7 @@ jano32.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano33.on("ready", () => {
+smsm33.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1157,7 +1157,7 @@ jano33.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano33.user.setActivity(STREAMING, {      
+    smsm33.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1165,7 +1165,7 @@ jano33.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano34.on("ready", () => {
+smsm34.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1176,7 +1176,7 @@ jano34.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano34.user.setActivity(STREAMING, {      
+    smsm34.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1184,7 +1184,7 @@ jano34.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano35.on("ready", () => {
+smsm35.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1195,7 +1195,7 @@ jano35.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano35.user.setActivity(STREAMING, {      
+    smsm35.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1203,7 +1203,7 @@ jano35.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano36.on("ready", () => {
+smsm36.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1214,7 +1214,7 @@ jano36.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano36.user.setActivity(STREAMING, {      
+    smsm36.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1222,7 +1222,26 @@ jano36.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano37.on("ready", () => {
+smsm37.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  ``,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm37.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm38.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1233,7 +1252,7 @@ jano37.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano37.user.setActivity(STREAMING, {      
+    smsm38.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1241,7 +1260,7 @@ jano37.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano38.on("ready", () => {
+smsm39.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1252,7 +1271,7 @@ jano38.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano38.user.setActivity(STREAMING, {      
+    smsm40.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1260,7 +1279,7 @@ jano38.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano39.on("ready", () => {
+smsm41.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1271,7 +1290,7 @@ jano39.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano40.user.setActivity(STREAMING, {      
+    smsm41.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1279,7 +1298,7 @@ jano39.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano41.on("ready", () => {
+smsm42.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1290,7 +1309,7 @@ jano41.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano41.user.setActivity(STREAMING, {      
+    smsm42.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1298,7 +1317,7 @@ jano41.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano42.on("ready", () => {
+smsm43.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1309,7 +1328,7 @@ jano42.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano42.user.setActivity(STREAMING, {      
+    smsm43.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1317,7 +1336,7 @@ jano42.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano43.on("ready", () => {
+smsm44.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1328,7 +1347,7 @@ jano43.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano43.user.setActivity(STREAMING, {      
+    smsm44.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1336,7 +1355,7 @@ jano43.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano44.on("ready", () => {
+smsm45.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1347,7 +1366,7 @@ jano44.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano44.user.setActivity(STREAMING, {      
+    smsm.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1355,7 +1374,7 @@ jano44.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano45.on("ready", () => {
+smsm45.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1366,7 +1385,7 @@ jano45.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
+    smsm45.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1374,7 +1393,7 @@ jano45.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano45.on("ready", () => {
+smsm46.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1385,7 +1404,7 @@ jano45.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano45.user.setActivity(STREAMING, {      
+    smsm46.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1393,7 +1412,7 @@ jano45.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano46.on("ready", () => {
+smsm47.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1404,7 +1423,7 @@ jano46.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano46.user.setActivity(STREAMING, {      
+    smsm47.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1412,7 +1431,7 @@ jano46.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano47.on("ready", () => {
+smsm48.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1423,7 +1442,7 @@ jano47.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano47.user.setActivity(STREAMING, {      
+    smsm48.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1431,7 +1450,7 @@ jano47.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano48.on("ready", () => {
+smsm49.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1442,7 +1461,7 @@ jano48.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano48.user.setActivity(STREAMING, {      
+    smsm.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1450,7 +1469,7 @@ jano48.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano49.on("ready", () => {
+smsm49.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1461,7 +1480,7 @@ jano49.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
+    smsm49.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1469,7 +1488,7 @@ jano49.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano49.on("ready", () => {
+smsm50.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1480,7 +1499,7 @@ jano49.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano49.user.setActivity(STREAMING, {      
+    smsm50.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1488,7 +1507,7 @@ jano49.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano50.on("ready", () => {
+smsm51.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1499,7 +1518,7 @@ jano50.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano50.user.setActivity(STREAMING, {      
+    smsm52.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1507,7 +1526,7 @@ jano50.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano51.on("ready", () => {
+smsm53.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1518,7 +1537,7 @@ jano51.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano52.user.setActivity(STREAMING, {      
+    smsm.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1526,7 +1545,7 @@ jano51.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano53.on("ready", () => {
+smsm53.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1537,7 +1556,7 @@ jano53.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano.user.setActivity(STREAMING, {      
+    smsm53.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1545,7 +1564,7 @@ jano53.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano53.on("ready", () => {
+smsm54.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1556,7 +1575,7 @@ jano53.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano53.user.setActivity(STREAMING, {      
+    smsm54.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1564,7 +1583,7 @@ jano53.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano54.on("ready", () => {
+smsm55.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1575,7 +1594,7 @@ jano54.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano54.user.setActivity(STREAMING, {      
+    smsm55.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1583,7 +1602,7 @@ jano54.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano55.on("ready", () => {
+smsm56.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1594,7 +1613,7 @@ jano55.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano55.user.setActivity(STREAMING, {      
+    smsm56.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1602,7 +1621,7 @@ jano55.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano56.on("ready", () => {
+smsm57.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1613,7 +1632,7 @@ jano56.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano56.user.setActivity(STREAMING, {      
+    smsm57.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1621,7 +1640,7 @@ jano56.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano57.on("ready", () => {
+smsm58.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1632,7 +1651,7 @@ jano57.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano57.user.setActivity(STREAMING, {      
+    smsm58.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1640,7 +1659,7 @@ jano57.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano58.on("ready", () => {
+smsm59.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1651,7 +1670,7 @@ jano58.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano58.user.setActivity(STREAMING, {      
+    smsm59.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1659,7 +1678,7 @@ jano58.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano59.on("ready", () => {
+smsm60.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1670,7 +1689,7 @@ jano59.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano59.user.setActivity(STREAMING, {      
+    smsm60.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1678,7 +1697,7 @@ jano59.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano60.on("ready", () => {
+smsm61.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1689,7 +1708,7 @@ jano60.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano60.user.setActivity(STREAMING, {      
+    smsm61.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1697,7 +1716,7 @@ jano60.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano61.on("ready", () => {
+smsm62.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1708,7 +1727,7 @@ jano61.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano61.user.setActivity(STREAMING, {      
+    smsm62.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1716,26 +1735,7 @@ jano61.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano62.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano62.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-jano63.on("ready", () => {
+smsm63.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1754,7 +1754,7 @@ jano63.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano64.on("ready", () => {
+smsm64.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1765,7 +1765,7 @@ jano64.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano64.user.setActivity(STREAMING, {      
+    smsm64.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1773,7 +1773,7 @@ jano64.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano65.on("ready", () => {
+smsm65.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1784,7 +1784,7 @@ jano65.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano65.user.setActivity(STREAMING, {      
+    smsm65.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1792,7 +1792,7 @@ jano65.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano66.on("ready", () => {
+smsm66.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1803,7 +1803,7 @@ jano66.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano66.user.setActivity(STREAMING, {      
+    smsm66.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1811,7 +1811,7 @@ jano66.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano67.on("ready", () => {
+smsm67.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1822,7 +1822,7 @@ jano67.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano67.user.setActivity(STREAMING, {      
+    smsm67.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1830,7 +1830,7 @@ jano67.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano68.on("ready", () => {
+smsm68.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1841,7 +1841,7 @@ jano68.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano68.user.setActivity(STREAMING, {      
+    smsm68.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1849,7 +1849,7 @@ jano68.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano69.on("ready", () => {
+smsm69.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1860,7 +1860,7 @@ jano69.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano69.user.setActivity(STREAMING, {      
+    smsm69.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1868,7 +1868,7 @@ jano69.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano70.on("ready", () => {
+smsm70.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1879,7 +1879,7 @@ jano70.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano70.user.setActivity(STREAMING, {      
+    smsm70.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1887,7 +1887,7 @@ jano70.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano71.on("ready", () => {
+smsm71.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1898,7 +1898,7 @@ jano71.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano71.user.setActivity(STREAMING, {      
+    smsm71.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1906,7 +1906,7 @@ jano71.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano72.on("ready", () => {
+smsm72.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1917,7 +1917,7 @@ jano72.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano72.user.setActivity(STREAMING, {      
+    smsm72.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1925,7 +1925,7 @@ jano72.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano73.on("ready", () => {
+smsm73.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1936,7 +1936,7 @@ jano73.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano73.user.setActivity(STREAMING, {      
+    smsm73.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1944,7 +1944,7 @@ jano73.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano74.on("ready", () => {
+smsm74.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1955,7 +1955,7 @@ jano74.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano74.user.setActivity(STREAMING, {      
+    smsm74.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1963,7 +1963,7 @@ jano74.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano75.on("ready", () => {
+smsm75.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1974,7 +1974,7 @@ jano75.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano75.user.setActivity(STREAMING, {      
+    smsm75.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1982,7 +1982,7 @@ jano75.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano76.on("ready", () => {
+smsm76.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1993,7 +1993,7 @@ jano76.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano76.user.setActivity(STREAMING, {      
+    smsm76.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2001,7 +2001,7 @@ jano76.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano77.on("ready", () => {
+smsm77.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2012,7 +2012,7 @@ jano77.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano77.user.setActivity(STREAMING, {      
+    smsm77.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2020,7 +2020,7 @@ jano77.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano78.on("ready", () => {
+smsm78.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2031,7 +2031,7 @@ jano78.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano78.user.setActivity(STREAMING, {      
+    smsm78.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2039,7 +2039,7 @@ jano78.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano79.on("ready", () => {
+smsm79.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2050,7 +2050,7 @@ jano79.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano79.user.setActivity(STREAMING, {      
+    smsm79.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2058,7 +2058,7 @@ jano79.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano80.on("ready", () => {
+smsm80.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2069,7 +2069,7 @@ jano80.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano80.user.setActivity(STREAMING, {      
+    smsm80.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2077,7 +2077,7 @@ jano80.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano81.on("ready", () => {
+smsm81.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2088,7 +2088,7 @@ jano81.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano81.user.setActivity(STREAMING, {      
+    smsm81.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2096,7 +2096,7 @@ jano81.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano82.on("ready", () => {
+smsm82.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2107,7 +2107,7 @@ jano82.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano82.user.setActivity(STREAMING, {      
+    smsm82.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2115,7 +2115,7 @@ jano82.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano83.on("ready", () => {
+smsm83.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2126,7 +2126,7 @@ jano83.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano83.user.setActivity(STREAMING, {      
+    smsm83.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2134,7 +2134,7 @@ jano83.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano84.on("ready", () => {
+smsm84.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2145,7 +2145,7 @@ jano84.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano84.user.setActivity(STREAMING, {      
+    smsm84.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2153,7 +2153,7 @@ jano84.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano85.on("ready", () => {
+smsm85.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2164,7 +2164,7 @@ jano85.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano85.user.setActivity(STREAMING, {      
+    smsm85.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2172,7 +2172,7 @@ jano85.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano86.on("ready", () => {
+smsm86.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2183,7 +2183,7 @@ jano86.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano86.user.setActivity(STREAMING, {      
+    smsm86.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2191,7 +2191,7 @@ jano86.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano87.on("ready", () => {
+smsm87.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2202,7 +2202,7 @@ jano87.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano87.user.setActivity(STREAMING, {      
+    smsm87.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2210,7 +2210,7 @@ jano87.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano88.on("ready", () => {
+smsm88.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2221,7 +2221,7 @@ jano88.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano88.user.setActivity(STREAMING, {      
+    smsm88.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2229,7 +2229,7 @@ jano88.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano89.on("ready", () => {
+smsm89.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2240,7 +2240,7 @@ jano89.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano89.user.setActivity(STREAMING, {      
+    smsm89.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2248,7 +2248,7 @@ jano89.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano90.on("ready", () => {
+smsm90.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2259,7 +2259,7 @@ jano90.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano90.user.setActivity(STREAMING, {      
+    smsm90.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2267,7 +2267,7 @@ jano90.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano91.on("ready", () => {
+smsm91.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2278,7 +2278,7 @@ jano91.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano91.user.setActivity(STREAMING, {      
+    smsm91.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2286,7 +2286,7 @@ jano91.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano92.on("ready", () => {
+smsm92.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2297,7 +2297,7 @@ jano92.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano92.user.setActivity(STREAMING, {      
+    smsm92.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2305,7 +2305,7 @@ jano92.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano93.on("ready", () => {
+smsm93.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2316,7 +2316,7 @@ jano93.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano93.user.setActivity(STREAMING, {      
+    smsm93.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2324,7 +2324,7 @@ jano93.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano94.on("ready", () => {
+smsm94.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2335,7 +2335,7 @@ jano94.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano94.user.setActivity(STREAMING, {      
+    smsm94.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2343,7 +2343,7 @@ jano94.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano95.on("ready", () => {
+smsm95.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2354,7 +2354,7 @@ jano95.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano95.user.setActivity(STREAMING, {      
+    smsm95.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2362,7 +2362,7 @@ jano95.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano96.on("ready", () => {
+smsm96.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2373,7 +2373,7 @@ jano96.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano96.user.setActivity(STREAMING, {      
+    smsm.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2381,7 +2381,7 @@ jano96.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano97.on("ready", () => {
+smsm97.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2400,7 +2400,7 @@ jano97.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano98.on("ready", () => {
+smsm98.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2411,7 +2411,7 @@ jano98.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano98.user.setActivity(STREAMING, {      
+    smsm98.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2419,7 +2419,7 @@ jano98.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano99.on("ready", () => {
+smsm99.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2430,7 +2430,7 @@ jano99.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano99.user.setActivity(STREAMING, {      
+    smsm99.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2438,7 +2438,7 @@ jano99.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-jano100.on("ready", () => {
+smsm100.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -2449,7 +2449,7 @@ jano100.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano100.user.setActivity(STREAMING, {      
+    smsm100.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2460,7 +2460,7 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+smsm.login("");
 jano2.login("");
 jano3.login("");
 jano4.login("");
