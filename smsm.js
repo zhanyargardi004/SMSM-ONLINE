@@ -255,7 +255,7 @@ smsm36.on("ready", () => {
     if (join) join.join();
   });///////////////////
 smsm37.on("ready", () => {
-    var join = jano37.channels.get(""); /// id voice
+    var join = smsm37.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
 smsm38.on("ready", () => {
@@ -2569,8 +2569,3 @@ smsm97.login("");
 smsm98.login("");
 smsm99.login("");
 smsm100.login("");
-smsm100.login("");
-smsm100.login("");
-smsm1040.login("");
-smsm1040.login("");
-smsm1040.login("");
