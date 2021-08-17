@@ -2555,7 +2555,7 @@ smsm90.login("");
 smsm91.login("");
 smsm92.login("");
 smsm93.login("");
-jano94.login("");
+smsm94.login("");
 smsm95.login("");
 smsm96.login("");
 smsm97.login("");
