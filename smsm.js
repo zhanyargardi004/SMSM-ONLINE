@@ -394,10 +394,6 @@ smsm71.on("ready", () => {
     var join = smsm71.channels.get(""); /// id voice
     if (join) join.join();
   });///////////////////
-smsm.on("ready", () => {
-    var join = smsm72.channels.get(""); /// id voice
-    if (join) join.join();
-  });///////////////////
 smsm72.on("ready", () => {
     var join = smsm72.channels.get(""); /// id voice
     if (join) join.join();
@@ -448,9 +444,6 @@ smsm83.on("ready", () => {
     var join = smsm83.channels.get(""); /// id voice
     if (join) join.join();
   });
-
-
-
 //////////////////
 smsm84.on("ready", () => {
     var join = smsm84.channels.get(""); /// id voice
@@ -482,7 +475,7 @@ smsm89.on("ready", () => {
     if (join) join.join();
   });
 //////////////////
-smsmsmsm90.on("ready", () => {
+smsm90.on("ready", () => {
     var join = smsm90.channels.get(""); /// id voice
     if (join) join.join();
   });
@@ -508,7 +501,7 @@ smsm94.on("ready", () => {
   });
 //////////////////
 smsm95.on("ready", () => {
-    var join = smsm83.channels.get(""); /// id voice
+    var join = smsm95.channels.get(""); /// id voice
     if (join) join.join();
   });
 //////////////////
@@ -748,7 +741,7 @@ smsm11.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsmsmsm12.on("ready", () => {
+smsm12.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1272,6 +1265,25 @@ smsm39.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm39.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm40.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `I rely on God that's why no one can destroy him`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     smsm40.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
@@ -1367,25 +1379,6 @@ smsm45.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-smsm45.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     smsm45.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
@@ -1462,25 +1455,6 @@ smsm49.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-smsm49.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  `I rely on God that's why no one can destroy him`,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     smsm49.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
@@ -1519,7 +1493,7 @@ smsm51.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm52.user.setActivity(STREAMING, {      
+    smsm51.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1527,7 +1501,7 @@ smsm51.on("ready", () => {
 });
 //////// playing or dnd  streaming ////////
 
-smsm53.on("ready", () => {
+smsm52.on("ready", () => {
   console.log(
     `Online In Servers`
   );
@@ -1538,7 +1512,7 @@ smsm53.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm.user.setActivity(STREAMING, {      
+    smsm52.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -1729,6 +1703,25 @@ smsm62.on("ready", () => {
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     smsm62.user.setActivity(STREAMING, {      
+    type: "playing", 
+    url: "https://www.twitch.tv/faith"
+    });
+  }, 2000);
+});
+//////// playing or dnd  streaming ////////
+
+smsm63.on("ready", () => {
+  console.log(
+    `Online In Servers`
+  );
+  let statuses = [
+  
+  `I rely on God that's why no one can destroy him`,
+
+  ];
+  setInterval(function() {
+    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
+    smsm63.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
@@ -2374,7 +2367,7 @@ smsm96.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm.user.setActivity(STREAMING, {      
+    smsm96.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
