@@ -107,7 +107,7 @@ const smsm100 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get("876852169666613258"); /// id voice
+    var join = smsm.channels.get(""); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -117,7 +117,7 @@ smsm2.on("ready", () => {
   });
 ///////////////////
 smsm3.on("ready", () => {
-    var join = smsm3.channels.get(""); /// id voice
+    var join = smsm3.channels.get("876852169666613258"); /// id voice
     if (join) join.join();
   });
 ///////////////////
