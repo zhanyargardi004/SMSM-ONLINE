@@ -107,7 +107,7 @@ const smsm100 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get(""); /// id voice
+    var join = smsm.channels.get("id voice lera"); /// id voice
     if (join) join.join();
   });
 ///////////////////
@@ -527,10 +527,10 @@ smsm99.on("ready", () => {
 
 /////////////////////
 smsm100.on("ready", () => {
-    var join = smsm100.channels.get(""); /// id voice
+    var join = smsm100.channels.get("id voice"); /// id voice
     if (join) join.join();
   });
-//////// playing or dnd  streaming ////////
+////////Ba heach shewayak daskary xware maka////////
 
 smsm.on("ready", () => {
   console.log(
@@ -2452,11 +2452,11 @@ smsm100.on("ready", () => {
 //////// playing or dnd  streaming ////////
 
 
-//////////////// tokn lera da bne 
+//////////////// token lera dabne/////////
 
-smsm.login("ODY4ODc2MjIwMjM2OTYzODcy.YP2Cfg.4RYZWVJFWOhPOTf901Nlwy_qI7o");
-smsm2.login("ODc2NDQ1Njc0MDI2MTk3MDc0.YRkUMQ.SttzEmjioq7um-UILWFmhiwAxzg");
-smsm3.login("ODc3MzIzNjg1NzIyMjAyMTQz.YRw9vw.qyyAYzQvdrfFHBNZArpAesAXpSM");
+smsm.login("");
+smsm2.login("");
+smsm3.login("");
 smsm4.login("");
 smsm5.login("");
 smsm6.login("");
