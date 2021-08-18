@@ -595,7 +595,7 @@ smsm4.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `By SMSM UP`,
 
   ];
   setInterval(function() {
