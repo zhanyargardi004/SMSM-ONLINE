@@ -557,7 +557,7 @@ smsm2.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `By SMSM#8700`,
 
   ];
   setInterval(function() {
@@ -595,7 +595,7 @@ smsm4.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM UP`,
+  `By SMSM`,
 
   ];
   setInterval(function() {
@@ -1703,25 +1703,6 @@ smsm62.on("ready", () => {
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
     smsm62.user.setActivity(STREAMING, {      
-    type: "playing", 
-    url: "https://www.twitch.tv/faith"
-    });
-  }, 2000);
-});
-//////// playing or dnd  streaming ////////
-
-smsm63.on("ready", () => {
-  console.log(
-    `Online In Servers`
-  );
-  let statuses = [
-  
-  ``,
-
-  ];
-  setInterval(function() {
-    let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    smsm63.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
