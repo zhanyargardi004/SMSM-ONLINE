@@ -2386,7 +2386,7 @@ smsm97.on("ready", () => {
   ];
   setInterval(function() {
     let STREAMING = statuses[Math.floor(Math.random() * statuses.length)];
-    jano97.user.setActivity(STREAMING, {      
+    smsm97.user.setActivity(STREAMING, {      
     type: "playing", 
     url: "https://www.twitch.tv/faith"
     });
