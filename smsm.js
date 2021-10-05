@@ -107,107 +107,107 @@ const smsm100 = new Discord.Client();
 
 ///////////////////
 smsm.on("ready", () => {
-    var join = smsm.channels.get("id voice leraya"); /// id voice
+    var join = smsm.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm2.on("ready", () => {
-    var join = smsm2.channels.get(""); /// id voice
+    var join = smsm2.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm3.on("ready", () => {
-    var join = smsm3.channels.get(""); /// id voice
+    var join = smsm3.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm4.on("ready", () => {
-    var join = smsm4.channels.get(""); /// id voice
+    var join = smsm4.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 smsm5.on("ready", () => {
-    var join = smsm5.channels.get(""); /// id voice
+    var join = smsm5.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm6.on("ready", () => {
-    var join = smsm6.channels.get(""); /// id voice
+    var join = smsm6.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm7.on("ready", () => {
-    var join = smsm7.channels.get(""); /// id voice
+    var join = smsm7.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm8.on("ready", () => {
-    var join = smsm8.channels.get(""); /// id voice
+    var join = smsm8.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm9.on("ready", () => {
-    var join = smsm9.channels.get(""); /// id voice
+    var join = smsm9.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm10.on("ready", () => {
-    var join = smsm10.channels.get(""); /// id voice
+    var join = smsm10.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm11.on("ready", () => {
-    var join = smsm11.channels.get(""); /// id voice
+    var join = smsm11.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm12.on("ready", () => {
-    var join = smsm12.channels.get(""); /// id voice
+    var join = smsm12.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm13.on("ready", () => {
-    var join = smsm13.channels.get(""); /// id voice
+    var join = smsm13.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm14.on("ready", () => {
-    var join = smsm14.channels.get(""); /// id voice
+    var join = smsm14.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm15.on("ready", () => {
-    var join = smsm15.channels.get(""); /// id voice
+    var join = smsm15.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm16.on("ready", () => {
-    var join = smsm16.channels.get(""); /// id voice
+    var join = smsm16.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm17.on("ready", () => {
-    var join = smsm17.channels.get(""); /// id voice
+    var join = smsm17.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm18.on("ready", () => {
-    var join = smsm18.channels.get(""); /// id voice
+    var join = smsm18.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm19.on("ready", () => {
-    var join = smsm19.channels.get(""); /// id voice
+    var join = smsm19.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm20.on("ready", () => {
-    var join = smsm20.channels.get(""); /// id voice
+    var join = smsm20.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm21.on("ready", () => {
-    var join = smsm21.channels.get(""); /// id voice
+    var join = smsm21.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm22.on("ready", () => {
-    var join = smsm22.channels.get(""); /// id voice
+    var join = smsm22.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm23.on("ready", () => {
-    var join = smsm23.channels.get(""); /// id voice
+    var join = smsm23.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm24.on("ready", () => {
-    var join = smsm24.channels.get(""); /// id voice
+    var join = smsm24.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm25.on("ready", () => {
-    var join = smsm25.channels.get(""); /// id voice
+    var join = smsm25.channels.get("894284167225958400"); /// id voice
     if (join) join.join();
   });///////////////////
 smsm26.on("ready", () => {
@@ -538,7 +538,7 @@ smsm.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -557,7 +557,7 @@ smsm2.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM#8700`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -576,7 +576,7 @@ smsm3.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -595,7 +595,7 @@ smsm4.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -614,7 +614,7 @@ smsm5.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -633,7 +633,7 @@ smsm6.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -652,7 +652,7 @@ smsm7.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -671,7 +671,7 @@ smsm8.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -690,7 +690,7 @@ smsm9.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -709,7 +709,7 @@ smsm10.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -728,7 +728,7 @@ smsm11.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -747,7 +747,7 @@ smsm12.on("ready", () => {
   );
   let statuses = [
   
-  `By SMSM`,
+  `BY GARDI`,
 
   ];
   setInterval(function() {
@@ -2435,11 +2435,11 @@ smsm100.on("ready", () => {
 
 //////////////// token lera dabne/////////
 
-smsm.login("");
-smsm2.login("");
-smsm3.login("");
-smsm4.login("");
-smsm5.login("");
+smsm.login("ODk0Njc0NjY2OTEwODA2MDY2.YVtc2g.VxjfaF6ccaebSOM4pC4B191V1IY");
+smsm2.login("ODk0NjczODc5ODkxNjA3NTYy.YVtcIQ.boIk6P76cKCzak1GU3DVAXjw3Yc");
+smsm3.login("ODk0NjcyMDYxODMyNzY1NDUw.YVtagQ.0vdn7ZZj5Nh_n0UjDed_WSIBZ5s");
+smsm4.login("ODk0NjcwNjcyNjI4OTQ0OTE2.YVtZLg.FqWQXUlFsKuZ1YAq1aTJBvO3eLo");
+smsm5.login("ODk0NjY3NTEyNjIzNTU0NjIx.YVtWxA.VfMAbTp0uDQnstK0BDAWUwO-u0Y");
 smsm6.login("");
 smsm7.login("");
 smsm8.login("");
